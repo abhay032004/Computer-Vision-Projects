@@ -31,7 +31,4 @@ Each project demonstrates practical applications of computer vision in real-worl
 - Real-time Video Processing
 - Creative AI & Visual Effects
 
----
-
-## Repository Structure
 
